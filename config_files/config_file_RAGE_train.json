@@ -1,0 +1,6 @@
+{
+  "Input Feature Path Training": "../output_RAGE/input_features_gm-wm-csf_11motpl_training-cohort.npy",
+  "Input Age Path Training": "../output_RAGE/input_age-weeks_training-cohort.npy",
+  "Output Folder": "./pretrained/",
+  "Add LR classifier": true
+}

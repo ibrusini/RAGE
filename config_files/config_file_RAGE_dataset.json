@@ -1,0 +1,10 @@
+{
+  "Metadata Path": "./metadata/BBSRC_ageatscan_train.xlsx",
+  "Input Nifti Folder": "../modulated_images/",
+  "Output Folder": "../output_RAGE/",
+  "Output Feature File": "features_gm-wm-csf_training.npy",
+  "Output Age File": "ages-weeks_training.npy",
+  "Output IDs File": "ids_training.npy",
+  "Tissues Used": "all",
+  "All Templates": false
+}

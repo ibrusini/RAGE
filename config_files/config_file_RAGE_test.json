@@ -1,0 +1,8 @@
+{
+  "Input Feature Path Testing": "../output_RAGE/input_features_gm-wm-csf_11motpl_ageing-cohort.npy",
+  "Input Age Path Testing": "../output_RAGE/input_age-weeks_ageing-cohort.npy",
+  "Input Subject IDs Path Testing": "../output_RAGE/ids_subjects_ageing-cohort.npy",
+  "Output Folder": "./output_weeks_GM-WM-CSF_11motpl/",
+  "Pretrained Folder": "./pretrained/",
+  "Add LR predictions": true
+}
