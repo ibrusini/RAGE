@@ -1,7 +1,8 @@
 # RAGE | Rat brain AGE prediction from MRI images
 
 This pipeline was used to perform age predictions from rat MRI images as presented in the preprint:  
-Brusini et al. (2021) 
+Brusini et al. (2021), "MRI-derived brain age as a biomarker of ageing in rats: validation using a healthy lifestyle 
+intervention", _bioRxiv 2021.04.19.440433_, doi: https://doi.org/10.1101/2021.04.19.440433.
 
 ### Requirements
 - nibabel==3.2.0
